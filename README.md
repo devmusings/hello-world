@@ -2,8 +2,7 @@
 Some description.
 Testing Atom's git!
 
-Test 
-line 
-breaks 
+Line
+break 
 on 
-Atom.
+VSC.
