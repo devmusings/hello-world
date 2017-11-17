@@ -2,13 +2,8 @@
 Some description.
 Testing Atom's git!
 
-Line
-break 
-on 
-VSC.
+Line1
+Line2
 
-
-Line
-break
-on
-web.
+Line3
+Line4.
