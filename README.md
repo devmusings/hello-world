@@ -1,3 +1,3 @@
 # hello-world
-Some description,
-to the obligatory repo!!
+Some description.
+Testing Atom's git!
